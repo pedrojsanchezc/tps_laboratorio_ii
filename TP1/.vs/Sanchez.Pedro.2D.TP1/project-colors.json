@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8fd03c12-472c-4d13-9533-cbd7e0e5fd85": {
+      "ProjectGuid": "8fd03c12-472c-4d13-9533-cbd7e0e5fd85",
+      "DisplayName": "MiCalculadora",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
