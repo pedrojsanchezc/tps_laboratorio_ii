@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sale>
+    <Id>8</Id>
+    <DateSale>2022-07-30T21:43:30.7868522-03:00</DateSale>
+    <Price>220</Price>
+    <SaleProducts>
+      <string>Escritorio de Madera 40x60cm x 1
+Mesa Plegable de Madera 100x130cm x 1
+</string>
+    </SaleProducts>
+  </Sale>
+  <Sale>
+    <Id>9</Id>
+    <DateSale>2022-07-30T21:44:27.5081416-03:00</DateSale>
+    <Price>10</Price>
+    <SaleProducts>
+      <string>Clavos x 1
+</string>
+    </SaleProducts>
+  </Sale>
+</ArrayOfSale>
